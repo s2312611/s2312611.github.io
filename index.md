@@ -1,3 +1,6 @@
+- 日本語：<https://s2312611.github.io/jpn>
+- English: <https://s2312611.github.io/eng>
+
 # ギットハブ・ページへようこそ！
 
 ## ギットハブ・リポジトリ
@@ -7,6 +10,7 @@
 | リポジトリ | 言語 | 説明 |
 |:--- |:--- |:--- |
 | [`s2312611.github.io`](https://github.com/s2312611/s2312611.github.io/) | マークダウン | ギットハブ・ページ用のソース文書。 |
+| [`SHAPEFILE_ENCODING`](https://github.com/s2312611/shapefile_encoding/) | バッシュ、パワーシェル | |
 
 個人アカウント（[@possior](https://github.com/possior/)）：
 
@@ -25,6 +29,7 @@ University Account \([@s2312611](https://github.com/s2312611/)\):
 | Repository | Language | Description |
 |:--- |:--- |:--- |
 | [`s2312611.github.io`](https://github.com/s2312611/s2312611.github.io/) | Markdown | Source documents for GitHub Pages. |
+| [`SHAPEFILE_ENCODING`](https://github.com/s2312611/shapefile_encoding/) | Bash, PowerShell | |
 
 Personal Account \([@possior](https://github.com/possior/)\):
 
