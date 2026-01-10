@@ -7,6 +7,7 @@
 | リポジトリ | 言語 | 説明 |
 |:--- |:--- |:--- |
 | [`s2312611.github.io`](https://github.com/s2312611/s2312611.github.io/) | マークダウン | |
+| [`INTELBASE_FORMATS`](https://github.com/s2312611/INTELBASE_FORMATS/) | マークダウン | 文献や講義から獲得した知識を、統一した形式に整理して保存する為の、マークダウンの雛形です。記載した内容の一貫性を担保しつつ、開発中の知能基盤に記録する事で検索性も提供します。本企画は総説やメタ分析の効率化や高度な学修に貢献します。 |
 | [`SHAPEFILE_ENCODING`](https://github.com/s2312611/shapefile_encoding/) | バッシュ、パワーシェル | |
 
 個人アカウント（[@possior](https://github.com/possior/)）：
