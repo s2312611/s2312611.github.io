@@ -6,6 +6,6 @@
 
 # GitHub Pages
 
-Markdown source files saved here are converted to static HTML and CSS GitHub Pages by GitHub's default Jekyll. The links in the site navigate visitors to my public GitHub repositories and their documentation.
+Markdown source files saved here are converted to my static HTML and CSS GitHub Pages by GitHub's default Jekyll. The links in the site navigate visitors to my public GitHub repositories and their documentation.
 
 Keywords: GitHub Pages, GitHub repositories, Documentations, Static Sites, Static Websites, Markdown, and Jekyll.
