@@ -1,4 +1,4 @@
-[日本語](https://s2312611.github.io/jpn)｜[English](https://s2312611.github.io/eng)
+[日本語](#ギットハブページへようこそ)｜[English](#welcome-to-my-github-pages)
 
 # ギットハブ・ページへようこそ！
 
