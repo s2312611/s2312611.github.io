@@ -1,3 +1,5 @@
+[日本語](https://s2312611.github.io/jpn)｜[English](https://s2312611.github.io/eng)
+
 # ギットハブ・ページへようこそ！
 
 ## ギットハブ・リポジトリ
