@@ -16,7 +16,7 @@
 
 | リポジトリ | 言語 | 説明 |
 |:--- |:--- |:--- |
-| [`possior.github.io`](https://github.com/possior/possior.github.io/) | マークダウン | |
+| [`possior.github.io`](https://github.com/possior/possior.github.io/) | マークダウン | ギットハブの標準エンジンであるジェッキルで、ＨＴＭＬとＣＳＳの静的ギットハブ・ページを構築する、マークダウンの元ファイルを保存して居ます。公開して居るギットハブ・リポジトリや其の文献をリンクして、然るべき処に案内します。 |
 | [`VERSION_CONTROL`](https://github.com/possior/version_control/) | バッシュ | |
 | [`RECOVERY_CONTROL`](https://github.com/possior/recovery_control/) | バッシュ、パワーシェル | |
 
@@ -36,6 +36,6 @@ Personal Account \([@possior](https://github.com/possior/)\):
 
 | Repository | Language | Description |
 |:--- |:--- |:--- |
-| [`possior.github.io`](https://github.com/possior/possior.github.io/) | Markdown | |
+| [`possior.github.io`](https://github.com/possior/possior.github.io/) | Markdown | Markdown source files saved here are converted to my static HTML and CSS GitHub Pages by GitHub's default Jekyll. The links in the site navigate visitors to my public GitHub repositories and their documentation. |
 | [`VERSION_CONTROL`](https://github.com/possior/version_control/) | Bash | |
 | [`RECOVERY_CONTROL`](https://github.com/possior/recovery_control/) | Bash, PowerShell | |
