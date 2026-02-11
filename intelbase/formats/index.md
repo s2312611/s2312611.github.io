@@ -1,4 +1,4 @@
-[日本語]()｜[English]()
+[日本語](#知能基盤用雛型)｜[English](#intelbase-formats)
 
 # 知能基盤用雛型
 
