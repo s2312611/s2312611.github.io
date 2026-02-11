@@ -6,8 +6,8 @@
 |:---:|:---:|
 | [`index`](./index) | 項目一覧（本頁） |
 | [`intelbase`](./intelbase/) | 知能基盤の関連資料 |
-| [`license`](./license) | ＭＩＴライセンス |
-| [`readme`](./readme) | サイトの概要 |
+| [`license`](./license.md) | ＭＩＴライセンス |
+| [`readme`](./readme.md) | サイトの概要 |
 
 ## ギットハブ・リポジトリ
 
@@ -33,8 +33,8 @@
 |:---:|:---:|
 | [`index`](./index) | item list (this page) |
 | [`intelbase`](./intelbase/) | documentation related to Intelbase |
-| [`license`](./license) | MIT License |
-| [`readme`](./readme) | site description |
+| [`license`](./license.md) | MIT License |
+| [`readme`](./readme.md) | site description |
 
 ## GitHub Repositories
 
