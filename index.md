@@ -2,6 +2,13 @@
 
 # ギットハブ・ページへようこそ！
 
+| 項目 | 概要 |
+|:---:|:---:|
+| [`index`](./index) | 項目一覧（本頁） |
+| [`intelbase`](./intelbase/) | 知能基盤の関連資料 |
+| [`license`](./license) | ＭＩＴライセンス |
+| [`readme`](./readme) | サイトの概要 |
+
 ## ギットハブ・リポジトリ
 
 大学アカウント（[@s2312611](https://github.com/s2312611/)）：
@@ -21,6 +28,13 @@
 | [`RECOVERY_CONTROL`](https://github.com/possior/recovery_control/) | |
 
 # Welcome to My GitHub Pages!
+
+| Item | Description |
+|:---:|:---:|
+| [`index`](./index) | item list (this page) |
+| [`intelbase`](./intelbase/) | documentation related to Intelbase |
+| [`license`](./license) | MIT License |
+| [`readme`](./readme) | site description |
 
 ## GitHub Repositories
 
