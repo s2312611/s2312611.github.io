@@ -4,6 +4,10 @@
 
 [`s2312611.github.com`](./)
 
+- [`index.md`](./index)
+- [`license.md`](./license.md)
+- [`readme.md`](./readme.md)
+
 ## ギットハブ・リポジトリ
 
 大学アカウント（[@s2312611](https://github.com/s2312611/)）：
@@ -26,6 +30,10 @@
 # Welcome to My GitHub Pages!
 
 [`s2312611.github.com`](./)
+
+- [`index.md`](./index)
+- [`license.md`](./license.md)
+- [`readme.md`](./readme.md)
 
 ## GitHub Repositories
 
