@@ -2,6 +2,8 @@
 
 # ギットハブ・ページへようこそ！
 
+[ギットハブ・ページ](./)
+
 ## ギットハブ・リポジトリ
 
 大学アカウント（[@s2312611](https://github.com/s2312611/)）：
@@ -22,6 +24,8 @@
 | [`RECOVERY_CONTROL`](https://github.com/possior/recovery_control/) | |
 
 # Welcome to My GitHub Pages!
+
+[My GitHub Pages](./)
 
 ## GitHub Repositories
 
