@@ -2,7 +2,7 @@
 
 # ギットハブ・ページへようこそ！
 
-[ギットハブ・ページ](./)
+[`s2312611.github.com`](./)
 
 ## ギットハブ・リポジトリ
 
@@ -25,7 +25,7 @@
 
 # Welcome to My GitHub Pages!
 
-[My GitHub Pages](./)
+[`s2312611.github.com`](./)
 
 ## GitHub Repositories
 
