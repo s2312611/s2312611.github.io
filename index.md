@@ -1,8 +1,8 @@
 [日本語](#ギットハブページへようこそ)｜[English](#welcome-to-my-github-pages)
 
-# ギットハブ・ページへようこそ！
-
 [`s2312611.github.com`](./)
+
+# ギットハブ・ページへようこそ！
 
 | 項目 | 概要 |
 |:---:|:---:|
@@ -31,8 +31,6 @@
 | [`RECOVERY_CONTROL`](https://github.com/possior/recovery_control/) | |
 
 # Welcome to My GitHub Pages!
-
-[`s2312611.github.com`](./)
 
 | Item | Description |
 |:---:|:---:|
