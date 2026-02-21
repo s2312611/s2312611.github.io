@@ -4,9 +4,12 @@
 
 [`s2312611.github.com`](./)
 
-- [`index.md`](./index)
-- [`license.md`](./license.md)
-- [`readme.md`](./readme.md)
+| 項目 | 概要 |
+|:---:|:---:|
+| [`intelbase/`](./intelbase/) | 知能基盤 |
+| [`index.md`](./index) | 本頁 |
+| [`license.md`](./license.md) | ＭＩＴライセンス |
+| [`readme.md`](./readme.md) | 本リポジトリ概要 |
 
 ## ギットハブ・リポジトリ
 
@@ -31,9 +34,12 @@
 
 [`s2312611.github.com`](./)
 
-- [`index.md`](./index)
-- [`license.md`](./license.md)
-- [`readme.md`](./readme.md)
+| Item | Description |
+|:---:|:---:|
+| [`intelbase/`](./intelbase/) | intelbase |
+| [`index.md`](./index) | this page |
+| [`license.md`](./license.md) | MIT license |
+| [`readme.md`](./readme.md) | description of this repository |
 
 ## GitHub Repositories
 
